@@ -1,6 +1,6 @@
 import sys,pytz,time,pyperclip
 from datetime import datetime
-FlightNumber = sys.argv[1]
+FlightNumber = int(sys.argv[1])
 AutoCallsign = True if sys.argv[2] == "Y" else False
 SameDate = True if sys.argv[3] == "Y" else False
 Date = sys.argv[4]
