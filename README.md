@@ -1,7 +1,7 @@
 # San International Airlines | Flight Announcement
 
 ## Overview
-This Script has been made by TomBad to help Flight Director+ announce incoming Flights! 
+This Script has been made by TomBad to help Flight Director+ announce incoming Flights! If you need assistance using this, make sure to DM `tombad2` on Discord!
 
 ## Installation
 1. Make sure `git` and `Python` are installed on your Computer:
@@ -24,8 +24,8 @@ This Script has been made by TomBad to help Flight Director+ announce incoming F
    ```
 5. Execute the Script with the Command under the `Usage` section.
    
-## Usage
-To use the Application, please use the following command after following the Installation Instructions.
+## Usage Terminal
+To use the Application with a Terminal Command, please use the following command after following the Installation Instructions.
 
 ```bash
 python main.py [NUMBER] [AUTOMATIC CALLSIGNS] [SAME DATE] [DATE]
@@ -42,8 +42,14 @@ Replace `[SAME DATE]` with:
 
 Replace `[DATE]` with the Date under the format DD/MM for every Flight, you can leave it blank if you chose `N` for "Same Date".
 
-### Usage Recommandation
-I recommend you use it like below to have a better automation of everything:
-```bash
-python main.py [NUMBER] Y Y [DATE]
-```
+## Usage Python
+To use the Application with Python, please do the following:
+1. Navigate to the folder you downloaded the Script in.
+2. Open SAL-Flight-Announcement.
+3. `[OPTIONAL]` You can move the file "SALFlightAnnouncement" to wherever you want.
+4. Just double-click on "SALFlightAnnouncement" to execute it, everything will be asked at that Time.
+
+
+## Last Flight Hosts update
+The Last Time the Flight Host list has been updated is 17/01 - 20:00 GMT.
+If the List is outdated please Contact TomBad.
