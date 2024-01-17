@@ -15,7 +15,7 @@ This Script has been made by TomBad to help Flight Director+ announce incoming F
 3. Navigate to the project directory:
 
     ```bash
-    cd keep-talking-game
+    cd SAL-Flight-Announcement
     ```
 4. Install dependencies:
 
