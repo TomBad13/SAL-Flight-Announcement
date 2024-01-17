@@ -1,7 +1,7 @@
 #[NUMBER] [AUTOMATIC CALLSIGNS] [SAME DATE] [DATE]
 import sys,subprocess
-Number = sys.argv[1]
-if int(Number) > 1:
+Number = int(sys.argv[1])
+if Number > 1:
     AutoCallsign = sys.argv[2].upper()
 else:
     AutoCallsign = "N"
