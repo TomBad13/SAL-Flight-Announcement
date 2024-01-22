@@ -51,5 +51,5 @@ To use the Application with Python, please do the following:
 
 
 ## Last Flight Hosts update
-The Last Time the Flight Host list has been updated is 17/01 - 20:00 GMT.
+The Last Time the Flight Host list has been updated is 22/01 - 17:00 GMT.
 If the List is outdated please Contact TomBad.
